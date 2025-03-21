@@ -1,0 +1,119 @@
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\ref\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\seed\AllTora.txt
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.csproj.AssemblyReference.cache
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\משתמש\source\repos\p2\project2\obj\Debug\net8.0\project2.csproj.Up2Date
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlTags.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlVoidTags.json
+E:\p2\project2\bin\Debug\net8.0\project2.exe
+E:\p2\project2\bin\Debug\net8.0\seed\AllTora.txt
+E:\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlTags.json
+E:\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlVoidTags.json
+E:\p2\project2\bin\Debug\net8.0\project2.deps.json
+E:\p2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+E:\p2\project2\bin\Debug\net8.0\project2.dll
+E:\p2\project2\bin\Debug\net8.0\project2.pdb
+E:\p2\project2\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\p2\project2\obj\Debug\net8.0\project2.csproj.AssemblyReference.cache
+E:\p2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\p2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+E:\p2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+E:\p2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+E:\p2\project2\obj\Debug\net8.0\project2.csproj.Up2Date
+E:\p2\project2\obj\Debug\net8.0\project2.dll
+E:\p2\project2\obj\Debug\net8.0\refint\project2.dll
+E:\p2\project2\obj\Debug\net8.0\project2.pdb
+E:\p2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+E:\p2\project2\obj\Debug\net8.0\ref\project2.dll
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\seed\AllTora.txt
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlTags.json
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlVoidTags.json
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\User\Documents\practiCode\p2\project2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.csproj.Up2Date
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\User\Documents\practiCode\p2\project2\obj\Debug\net8.0\ref\project2.dll
+D:\p2\project2\bin\Debug\net8.0\project2.exe
+D:\p2\project2\bin\Debug\net8.0\seed\AllTora.txt
+D:\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlTags.json
+D:\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlVoidTags.json
+D:\p2\project2\bin\Debug\net8.0\project2.deps.json
+D:\p2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+D:\p2\project2\bin\Debug\net8.0\project2.dll
+D:\p2\project2\bin\Debug\net8.0\project2.pdb
+D:\p2\project2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\p2\project2\obj\Debug\net8.0\project2.csproj.AssemblyReference.cache
+D:\p2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\p2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+D:\p2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+D:\p2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+D:\p2\project2\obj\Debug\net8.0\project2.csproj.Up2Date
+D:\p2\project2\obj\Debug\net8.0\project2.dll
+D:\p2\project2\obj\Debug\net8.0\refint\project2.dll
+D:\p2\project2\obj\Debug\net8.0\project2.pdb
+D:\p2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+D:\p2\project2\obj\Debug\net8.0\ref\project2.dll
+E:\כה חשון\p2\project2\bin\Debug\net8.0\project2.exe
+E:\כה חשון\p2\project2\bin\Debug\net8.0\seed\AllTora.txt
+E:\כה חשון\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlTags.json
+E:\כה חשון\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlVoidTags.json
+E:\כה חשון\p2\project2\bin\Debug\net8.0\project2.deps.json
+E:\כה חשון\p2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+E:\כה חשון\p2\project2\bin\Debug\net8.0\project2.dll
+E:\כה חשון\p2\project2\bin\Debug\net8.0\project2.pdb
+E:\כה חשון\p2\project2\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.csproj.AssemblyReference.cache
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.csproj.Up2Date
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.dll
+E:\כה חשון\p2\project2\obj\Debug\net8.0\refint\project2.dll
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.pdb
+E:\כה חשון\p2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+E:\כה חשון\p2\project2\obj\Debug\net8.0\ref\project2.dll
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\project2.exe
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlTags.json
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\project2.deps.json
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\project2.runtimeconfig.json
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\project2.dll
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\project2.pdb
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.AssemblyInfo.cs
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.csproj.Up2Date
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.dll
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\refint\project2.dll
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.pdb
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\obj\Debug\net8.0\ref\project2.dll
+C:\Users\This User\Documents\פרקטיקוד\jm_0tRm2Bb9VUaZLFo_selections_87\cnf\p2\project2\bin\Debug\net8.0\seed\JSON Files\HtmlVoidTags.json

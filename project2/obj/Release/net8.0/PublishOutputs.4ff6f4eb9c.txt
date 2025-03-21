@@ -1,0 +1,9 @@
+C:\Users\משתמש\source\repos\p2\publish\seed\AllTora.txt
+C:\Users\משתמש\source\repos\p2\publish\seed\JSON Files\HtmlTags.json
+C:\Users\משתמש\source\repos\p2\publish\seed\JSON Files\HtmlVoidTags.json
+C:\Users\משתמש\source\repos\p2\publish\project2.exe
+C:\Users\משתמש\source\repos\p2\publish\project2.dll
+C:\Users\משתמש\source\repos\p2\publish\project2.deps.json
+C:\Users\משתמש\source\repos\p2\publish\project2.runtimeconfig.json
+C:\Users\משתמש\source\repos\p2\publish\project2.pdb
+C:\Users\משתמש\source\repos\p2\publish\Newtonsoft.Json.dll

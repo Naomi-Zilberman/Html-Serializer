@@ -1,0 +1,20 @@
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\project2.exe
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\seed\AllTora.txt
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\seed\JSON Files\HtmlTags.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\seed\JSON Files\HtmlVoidTags.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\project2.deps.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\project2.runtimeconfig.json
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\project2.pdb
+C:\Users\משתמש\source\repos\p2\project2\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.csproj.AssemblyReference.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.csproj.Up2Date
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\refint\project2.dll
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.pdb
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\project2.genruntimeconfig.cache
+C:\Users\משתמש\source\repos\p2\project2\obj\Release\net8.0\ref\project2.dll
